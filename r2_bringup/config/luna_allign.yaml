@@ -1,0 +1,28 @@
+luna_wall_align:
+  ros__parameters:
+    linear_x_max: 2.0
+    linear_y_max: 2.0
+    linear_x_min: -2.0
+    linear_y_min: -2.0
+    angular_z_max: 1.0
+    angular_z_min: -1.0
+    kp_linear: 0.05
+    ki_linear: 0.0
+    kd_linear: 0.0
+    kp_angular: 0.15
+    ki_angular: 0.0
+    kd_angular: 0.0
+    # x_goal: 40.0
+    # y_goal: 50.0
+    silo_1_x: 8.0
+    silo_1_y: 213.0
+    silo_2_x: 18.0
+    silo_2_y: 218.0
+    silo_3_x: 40.0
+    silo_3_y: 270.0
+    silo_4_x: 11.0
+    silo_4_y: 239.0
+    silo_5_x: 170.0
+    silo_5_y: 239.0
+
+

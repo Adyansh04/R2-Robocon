@@ -1,0 +1,57 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Microros_pub_sub",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/himaj/r2_ws/build/r2_py",
+			"/home/himaj/r2_ws/install/r2_py/lib/python3.10/site-packages",
+			"/home/himaj/r2_ws/install/r2_interfaces/local/lib/python3.10/dist-packages",
+			"/home/himaj/r2_ws/install/line_following/local/lib/python3.10/dist-packages",
+			"/home/himaj/r2_ws/build/ball_tracking",
+			"/home/himaj/r2_ws/install/ball_tracking/lib/python3.10/site-packages",
+			"/home/himaj/xbox_ros_ws/build/xbox_turtle_controller",
+			"/home/himaj/xbox_ros_ws/install/xbox_turtle_controller/lib/python3.10/site-packages",
+			"/home/himaj/bot_alignment/build/ball_detection",
+			"/home/himaj/bot_alignment/install/ball_detection/lib/python3.10/site-packages",
+			"/home/himaj/bot_alignment/build/SerialCom",
+			"/home/himaj/bot_alignment/install/SerialCom/lib/python3.10/site-packages",
+			"/home/himaj/arm_ros_ws/build/control_joint_states",
+			"/home/himaj/arm_ros_ws/install/control_joint_states/lib/python3.10/site-packages",
+			"/home/himaj/build/my_py_pkg",
+			"/home/himaj/install/my_py_pkg/lib/python3.10/site-packages",
+			"/home/himaj/ros2_ws/build/my_py_pkg",
+			"/home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/himaj/r2_ws/build/r2_py",
+			"/home/himaj/r2_ws/install/r2_py/lib/python3.10/site-packages",
+			"/home/himaj/r2_ws/install/r2_interfaces/local/lib/python3.10/dist-packages",
+			"/home/himaj/r2_ws/install/line_following/local/lib/python3.10/dist-packages",
+			"/home/himaj/r2_ws/build/ball_tracking",
+			"/home/himaj/r2_ws/install/ball_tracking/lib/python3.10/site-packages",
+			"/home/himaj/xbox_ros_ws/build/xbox_turtle_controller",
+			"/home/himaj/xbox_ros_ws/install/xbox_turtle_controller/lib/python3.10/site-packages",
+			"/home/himaj/bot_alignment/build/ball_detection",
+			"/home/himaj/bot_alignment/install/ball_detection/lib/python3.10/site-packages",
+			"/home/himaj/bot_alignment/build/SerialCom",
+			"/home/himaj/bot_alignment/install/SerialCom/lib/python3.10/site-packages",
+			"/home/himaj/arm_ros_ws/build/control_joint_states",
+			"/home/himaj/arm_ros_ws/install/control_joint_states/lib/python3.10/site-packages",
+			"/home/himaj/build/my_py_pkg",
+			"/home/himaj/install/my_py_pkg/lib/python3.10/site-packages",
+			"/home/himaj/ros2_ws/build/my_py_pkg",
+			"/home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		]
+	}
+}

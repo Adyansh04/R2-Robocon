@@ -1,0 +1,7 @@
+#this is an example of a yaml file
+
+turtlesim_node:
+  ros__parameters:
+    background_r: 255
+    background_g: 255
+    background_b: 255
